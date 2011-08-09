@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="src" path="src/test/resources"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER" exported="true"/>
+	<classpathentry kind="output" path="bin"/>
+	<classpathentry sourcepath="/home/erich/.gradle/cache/org.slf4j/slf4j-api/sources/slf4j-api-1.6.1-sources.jar" kind="lib" path="/home/erich/.gradle/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.6.1.jar" exported="true"/>
+	<classpathentry sourcepath="/home/erich/.gradle/cache/org.hamcrest/hamcrest-library/sources/hamcrest-library-1.2-sources.jar" kind="lib" path="/home/erich/.gradle/cache/org.hamcrest/hamcrest-library/jars/hamcrest-library-1.2.jar" exported="true"/>
+	<classpathentry sourcepath="/home/erich/.gradle/cache/org.hibernate/hibernate-entitymanager/sources/hibernate-entitymanager-3.6.6.Final-sources.jar" kind="lib" path="/home/erich/.gradle/cache/org.hibernate/hibernate-entitymanager/jars/hibernate-entitymanager-3.6.6.Final.jar" exported="true"/>
+	<classpathentry sourcepath="/home/erich/.gradle/cache/org.slf4j/slf4j-log4j12/sources/slf4j-log4j12-1.6.1-sources.jar" kind="lib" path="/home/erich/.gradle/cache/org.slf4j/slf4j-log4j12/jars/slf4j-log4j12-1.6.1.jar" exported="true"/>
+	<classpathentry sourcepath="/home/erich/.gradle/cache/org.hibernate/hibernate-c3p0/sources/hibernate-c3p0-3.6.0.Beta2-sources.jar" kind="lib" path="/home/erich/.gradle/cache/org.hibernate/hibernate-c3p0/jars/hibernate-c3p0-3.6.0.Beta2.jar" exported="true"/>
+	<classpathentry sourcepath="/home/erich/.gradle/cache/junit/junit/sources/junit-4.8.2-sources.jar" kind="lib" path="/home/erich/.gradle/cache/junit/junit/jars/junit-4.8.2.jar" exported="true"/>
+	<classpathentry sourcepath="/home/erich/.gradle/cache/javax.transaction/jta/sources/jta-1.1-sources.jar" kind="lib" path="/home/erich/.gradle/cache/javax.transaction/jta/jars/jta-1.1.jar" exported="true"/>
+	<classpathentry sourcepath="/home/erich/.gradle/cache/c3p0/c3p0/sources/c3p0-0.9.1-sources.jar" kind="lib" path="/home/erich/.gradle/cache/c3p0/c3p0/jars/c3p0-0.9.1.jar" exported="true"/>
+	<classpathentry sourcepath="/home/erich/.gradle/cache/dom4j/dom4j/sources/dom4j-1.6.1-sources.jar" kind="lib" path="/home/erich/.gradle/cache/dom4j/dom4j/jars/dom4j-1.6.1.jar" exported="true"/>
+	<classpathentry sourcepath="/home/erich/.gradle/cache/org.hibernate.javax.persistence/hibernate-jpa-2.0-api/sources/hibernate-jpa-2.0-api-1.0.0.Final-sources.jar" kind="lib" path="/home/erich/.gradle/cache/org.hibernate.javax.persistence/hibernate-jpa-2.0-api/jars/hibernate-jpa-2.0-api-1.0.0.Final.jar" exported="true"/>
+	<classpathentry kind="lib" path="/home/erich/.gradle/cache/jboss/javassist/jars/javassist-3.1.jar" exported="true"/>
+	<classpathentry sourcepath="/home/erich/.gradle/cache/org.hibernate/hibernate-core/sources/hibernate-core-3.6.6.Final-sources.jar" kind="lib" path="/home/erich/.gradle/cache/org.hibernate/hibernate-core/jars/hibernate-core-3.6.6.Final.jar" exported="true"/>
+	<classpathentry sourcepath="/home/erich/.gradle/cache/org.hibernate/hibernate-commons-annotations/sources/hibernate-commons-annotations-3.2.0.Final-sources.jar" kind="lib" path="/home/erich/.gradle/cache/org.hibernate/hibernate-commons-annotations/jars/hibernate-commons-annotations-3.2.0.Final.jar" exported="true"/>
+	<classpathentry sourcepath="/home/erich/.gradle/cache/commons-collections/commons-collections/sources/commons-collections-3.1-sources.jar" kind="lib" path="/home/erich/.gradle/cache/commons-collections/commons-collections/jars/commons-collections-3.1.jar" exported="true"/>
+	<classpathentry sourcepath="/home/erich/.gradle/cache/org.hamcrest/hamcrest-core/sources/hamcrest-core-1.2-sources.jar" kind="lib" path="/home/erich/.gradle/cache/org.hamcrest/hamcrest-core/jars/hamcrest-core-1.2.jar" exported="true"/>
+	<classpathentry sourcepath="/home/erich/.gradle/cache/antlr/antlr/sources/antlr-2.7.6-sources.jar" kind="lib" path="/home/erich/.gradle/cache/antlr/antlr/jars/antlr-2.7.6.jar" exported="true"/>
+	<classpathentry kind="lib" path="/home/erich/.gradle/cache/mysql/mysql-connector-java/jars/mysql-connector-java-5.1.13.jar" exported="true"/>
+	<classpathentry sourcepath="/home/erich/.gradle/cache/log4j/log4j/sources/log4j-1.2.16-sources.jar" kind="lib" path="/home/erich/.gradle/cache/log4j/log4j/bundles/log4j-1.2.16.jar" exported="true"/>
+	<classpathentry sourcepath="/home/erich/.gradle/cache/org.hibernate/hibernate-validator/sources/hibernate-validator-4.2.0.Final-sources.jar" kind="lib" path="/home/erich/.gradle/cache/org.hibernate/hibernate-validator/jars/hibernate-validator-4.2.0.Final.jar" exported="true"/>
+	<classpathentry sourcepath="/home/erich/.gradle/cache/org.mockito/mockito-all/sources/mockito-all-1.8.5-sources.jar" kind="lib" path="/home/erich/.gradle/cache/org.mockito/mockito-all/jars/mockito-all-1.8.5.jar" exported="true"/>
+	<classpathentry sourcepath="/home/erich/.gradle/cache/javax.validation/validation-api/sources/validation-api-1.0.0.GA-sources.jar" kind="lib" path="/home/erich/.gradle/cache/javax.validation/validation-api/jars/validation-api-1.0.0.GA.jar" exported="true"/>
+</classpath>
